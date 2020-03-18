@@ -1,4 +1,4 @@
 ---
-name: Eleni Katifori (TBC)
+name: Eleni Katifori
 position: University of Pennsylvania
 ---
