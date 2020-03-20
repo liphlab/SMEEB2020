@@ -1,4 +1,4 @@
 ---
-name: Derek Titterson
+name: Derek Tittensor
 position: Dalhousie University
 ---
