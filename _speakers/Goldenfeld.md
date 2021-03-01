@@ -1,4 +1,4 @@
 ---
-name: Nigel Goldenfeld (TBC)
+name: Nigel Goldenfeld
 position: University of Illinois at Urbana-Champaign
 ---

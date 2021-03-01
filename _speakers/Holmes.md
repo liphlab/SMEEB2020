@@ -1,4 +1,4 @@
 ---
-name: Susan Holmes (TBC)
+name: Susan Holmes
 position: Stanford University
 ---

@@ -1,4 +1,4 @@
 ---
-name: Corina Tarnita (TBC)
+name: Corina Tarnita
 position: Princeton University
 ---
